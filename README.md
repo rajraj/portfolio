@@ -1,2 +1,1 @@
-# portfolio
-Portfolio serverless project
+# Portfolio
